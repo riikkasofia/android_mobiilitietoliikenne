@@ -1,0 +1,2 @@
+rootProject.name='JSONstockV2'
+include ':app'
